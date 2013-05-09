@@ -1,2 +1,3 @@
-Hola..
+Hola.
 New Line
+Git is cool, really cool.
